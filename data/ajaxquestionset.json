@@ -1,0 +1,26 @@
+{
+    "success": true,
+    "Message": "Success",
+    "questions": [
+        {
+            "question": "AJAX based on ______ ??",
+            "choices": [
+                "VBScript and XML",
+                "JavaScript and XML",
+                "JavaScript and Java",
+                "JavaScript and HTTP requests"
+            ],
+            "correct": "JavaScript and XML"
+        },
+        {
+            "question": "What makes Ajax unique???",
+            "choices": [
+                "It makes data requests asynchronously.",
+                "It uses C++ as its programming language.",
+                "It works the same with all Web browsers.",
+                "It works as a stand-alone Web-development tool."
+            ],
+            "correct": "It makes data requests asynchronously."
+        }
+    ]
+}
