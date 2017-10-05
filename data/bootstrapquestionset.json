@@ -26,6 +26,16 @@
         "All the above"
       ],
       "correct": "3"
+    },
+     {
+      "question": "The Bootstrap grid system is based on how many columns",
+      "choices": [
+        "3",
+        "9",
+        "6",
+        "12"
+      ],
+      "correct": "3"
     }
   ]
 }
