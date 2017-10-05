@@ -21,6 +21,16 @@
                 "It works as a stand-alone Web-development tool."
             ],
             "correct": "It makes data requests asynchronously."
+        },
+        {
+            "question": "Full form of Ajax",
+            "choices": [
+                "Asynchronous JavaScript and XML.",
+                "Asynchronous JavaScript and JSON.",
+                "Asynchronous Java and XML.",
+                "None of the above."
+            ],
+            "correct": "Asynchronous JavaScript and XML."
         }
     ]
 }
